@@ -2,16 +2,20 @@
 
 ## Visualizations:
 
-Login page:
+### Login page:
+
 ![Image of Login Page](https://github.com/mattchoi2/Python-Flask-Catering-Web-App/blob/master/images/login.PNG?raw=true)
 
-Create an event as a customer:
+### Create an event as a customer
+
 ![Image of Create Event Page](https://github.com/mattchoi2/Python-Flask-Catering-Web-App/blob/master/images/createEvent.PNG?raw=true)
 
-Signup as a staff for an event:
+### Signup as a staff for an event:
+
 ![Image of Staff Signup Page](https://github.com/mattchoi2/Python-Flask-Catering-Web-App/blob/master/images/staff.PNG?raw=true)
 
-Manage events and staff as admin:
+### Manage events and staff as admin:
+
 ![Image of Admin Management](https://github.com/mattchoi2/Python-Flask-Catering-Web-App/blob/master/images/owner.PNG?raw=true)
 
 ## Goal:
